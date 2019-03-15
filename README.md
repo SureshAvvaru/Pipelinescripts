@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Introduction
 
 This repository is a home for snippets, tips and tricks and examples of scripting for the [Jenkins Pipeline plugin](https://github.com/jenkinsci/workflow-plugin/blob/master/README.md).
@@ -26,3 +27,7 @@ We want them!
 * [Pipeline scripts collection of the Docker team](https://github.com/docker/jenkins-pipeline-scripts)
 * [Pipeline scripts collection of the Fabric8 team](https://github.com/fabric8io/jenkins-pipeline-library)
 * [Pipeline scripts collection of the Funkwerk](https://github.com/funkwerk/jenkins-workflow)
+=======
+# Pipelinescripts
+source from another public repository
+>>>>>>> d7fc7812e803f9e2b92290b8483e2c0c2b98b61f
